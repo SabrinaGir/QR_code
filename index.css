@@ -1,0 +1,32 @@
+
+body {
+  background-color: hsl(212, 45%, 89%);
+}
+
+#footer {
+   bottom:0px;
+   position:fixed;
+}
+
+#rectangle {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  border-radius: 10px;
+}
+
+#qr-code {
+  width: 90%;
+  height: 55%;
+  border-radius: 10px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+p {
+  font-family: 'Outfit';
+  text-align:center;
+  padding-left: 15px;
+  padding-right: 15px;
+}
