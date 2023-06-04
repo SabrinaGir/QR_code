@@ -9,8 +9,8 @@ body {
 }
 
 #rectangle {
-  height: 50%
-  width: 20%
+  height: 50%;
+  width: 20%;
   position: absolute;
   left: 50%;
   top: 50%;
